@@ -1,6 +1,7 @@
 # Table of contents
 
 * [首页](README.md)
+* [通过 GitHub 编辑 Wiki 示例说明](tong-guo-github-bian-ji-wiki-shi-li-shuo-ming.md)
 
 ## Getting Started
 
@@ -41,10 +42,8 @@
   * [summer\_end](story/kai-fu-lie-zhuan/summer\_end.md)
   * [sfq](story/kai-fu-lie-zhuan/sfq.md)
   * [三叶](story/kai-fu-lie-zhuan/san-ye.md)
-  * [system / server_system](story/kai-fu-lie-zhuan/system.md)
+  * [system / server\_system](story/kai-fu-lie-zhuan/system.md)
   * [xfq](story/kai-fu-lie-zhuan/xfq.md)
   * [晓骸](story/kai-fu-lie-zhuan/xiao-hai.md)
   * [yuzo\_guozhi](story/kai-fu-lie-zhuan/yuzo\_guozhi.md)
   * [Zn\_Wan / 樟脑丸](story/kai-fu-lie-zhuan/znwan-zhang-nao-wan.md)
- 
-
