@@ -26,7 +26,7 @@ layout:
 
 ### Minecraft 开服专区服务器Wiki
 
-如果管理人员需要编辑/增加页面，请以拥有对应权限的账户登录 GitBook 后台以进行编辑\~ 如果您是普通玩家，可以向服务器管理人员直接反馈，或[注册](https://app.gitbook.com/invite/mUhiMK6SCLnhyrf72InG/K25CE7IxLvQKF9ScPg1V)申请修改相应词条。
+如果管理人员需要编辑/增加页面，请以拥有对应权限的账户登录 GitBook 后台以进行编辑\~ 如果您是普通玩家，可以向服务器管理人员直接反馈，或在[此处](https://github.com/yuzoguozhi/KFZQ-Wiki)修改或创建词条，并发起提交请求。
 
 ### 精选词条
 
