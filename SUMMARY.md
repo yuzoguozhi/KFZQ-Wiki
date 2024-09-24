@@ -45,3 +45,4 @@
   * [晓骸](story/kai-fu-lie-zhuan/xiao-hai.md)
   * [yuzo\_guozhi](story/kai-fu-lie-zhuan/yuzo\_guozhi.md)
   * [Zn\_Wan / 樟脑丸](story/kai-fu-lie-zhuan/znwan-zhang-nao-wan.md)
+  * [Z\_Test](story/kai-fu-lie-zhuan/z\_test.md)
