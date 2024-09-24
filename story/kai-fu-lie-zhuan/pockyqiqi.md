@@ -1,6 +1,6 @@
 ---
-description: 伟大群主 / 琦琦 / 暮琦
 icon: sparkle
+description: 伟大群主 / 琦琦 / 暮琦
 ---
 
 # pockyqiqi
@@ -14,3 +14,5 @@ icon: sparkle
 游戏ID：pockyqiqi
 
 特长：建筑、农业、养护动物
+
+开服专区天使投资人
