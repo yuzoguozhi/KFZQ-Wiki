@@ -1,12 +1,12 @@
 # Table of contents
 
 * [首页](README.md)
-* [通过 GitHub 编辑 Wiki 示例说明](tong-guo-github-bian-ji-wiki-shi-li-shuo-ming.md)
 
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
+* [通过 GitHub 编辑 Wiki 示例说明](getting-started/tong-guo-github-bian-ji-wiki-shi-li-shuo-ming.md)
 
 ## Basics
 
