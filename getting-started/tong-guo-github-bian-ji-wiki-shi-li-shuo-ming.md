@@ -1,5 +1,6 @@
 ---
 icon: github
+hidden: true
 ---
 
 # 通过 GitHub 编辑 Wiki 示例说明
