@@ -46,3 +46,8 @@
   * [晓骸](story/kfzqplayer/xiao-hai.md)
   * [yuzo\_guozhi](story/kfzqplayer/yuzo\_guozhi.md)
   * [Zn\_Wan / 樟脑丸](story/kfzqplayer/znwan-zhang-nao-wan.md)
+* [开服简史](story/kfzqhistory.md)
+
+## 常见问题帮助 <a href="#help" id="help"></a>
+
+* [如何使用 LittleSkin 更换皮肤](help/ru-he-shi-yong-littleskin-geng-huan-pi-fu.md)
