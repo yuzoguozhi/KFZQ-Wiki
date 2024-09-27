@@ -5,6 +5,8 @@ description: 甜甜圈 / 冰坂澪雪
 
 # HyousakaMioyuki / 甜甜圈
 
+<figure><img src="https://webstatic-zijgame-1258074638.cos.ap-shanghai.myqcloud.com/img/wiki/player_img_HyousakaMioyuki.png" alt=""><figcaption></figcaption></figure>
+
 ### 简介
 
 入服时间：2020年
