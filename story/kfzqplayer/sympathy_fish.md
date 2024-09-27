@@ -6,6 +6,8 @@ coverY: 0
 
 # sympathy\_fish
 
+<figure><img src="https://webstatic-zijgame-1258074638.cos.ap-shanghai.myqcloud.com/img/wiki/player_img_fish.png" alt=""><figcaption><p>※ 不知道为什么该词条用户的游戏内模型加载不出皮肤。 现在的展示图片是由 (mcskinsearch.com) 提供的。</p></figcaption></figure>
+
 {% hint style="success" %}
 该玩家获得过以下特殊荣誉：
 
