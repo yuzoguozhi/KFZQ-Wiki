@@ -5,6 +5,8 @@ description: 白吃 / 白痴
 
 # SexyBaiChi / 白吃
 
+<figure><img src="https://webstatic-zijgame-1258074638.cos.ap-shanghai.myqcloud.com/img/wiki/player_img_sexybaichi.png" alt=""><figcaption></figcaption></figure>
+
 ### 简介
 
 入服时间：2020年
