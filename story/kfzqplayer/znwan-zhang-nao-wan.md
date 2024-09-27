@@ -5,13 +5,13 @@ description: 樟脑丸 / 丸子 / 樟脑大丸子
 
 # Zn\_Wan / 樟脑丸
 
+<figure><img src="https://webstatic-zijgame-1258074638.cos.ap-shanghai.myqcloud.com/img/wiki/player_img_znwan.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 该玩家获得过以下特殊荣誉：
 
 * **第2届樱桃杯 总冠军**
 {% endhint %}
-
-
 
 ### 简介
 
