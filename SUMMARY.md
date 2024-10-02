@@ -28,7 +28,7 @@
   * [HyousakaMioyuki / 甜甜圈](story/kfzqplayer/hyousakamioyuki-tian-tian-quan.md)
   * [Ji\_momo / 寂陌](story/kfzqplayer/jimomo-ji-mo.md)
   * [机器猫](story/kfzqplayer/ji-qi-mao.md)
-  * [LimeyMeng](story/kfzqplayer/limeymeng.md)
+  * [LimieyMeng](story/kfzqplayer/limeymeng.md)
   * [Max](story/kfzqplayer/max.md)
   * [meibisijiang / 梅比斯酱](story/kfzqplayer/meibisijiang-mei-bi-si-jiang.md)
   * [norch / 寒冰](story/kfzqplayer/norch-han-bing.md)

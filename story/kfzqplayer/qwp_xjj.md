@@ -1,9 +1,11 @@
 ---
-description: 小羯杰 / xjj
 icon: pickaxe
+description: 小羯杰 / xjj
 ---
 
 # qwp\_xjj
+
+<figure><img src="https://webstatic-zijgame-1258074638.cos.ap-shanghai.myqcloud.com/img/wiki/player_img_qwp_xjj.png" alt=""><figcaption></figcaption></figure>
 
 ### 简介
 

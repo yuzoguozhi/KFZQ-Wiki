@@ -4,6 +4,8 @@ description: 水晶鱼 / 水晶 / 白开水
 
 # crystal / 水晶鱼
 
+<figure><img src="https://webstatic-zijgame-1258074638.cos.ap-shanghai.myqcloud.com/img/wiki/player_img_crystal.png" alt=""><figcaption></figcaption></figure>
+
 ### 简介
 
 入服时间：2018年

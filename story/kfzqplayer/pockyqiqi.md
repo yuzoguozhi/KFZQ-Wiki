@@ -1,9 +1,11 @@
 ---
 icon: sparkle
-description: 伟大群主 / 琦琦 / 暮琦
+description: “伟大群主” / 琦琦 / 暮琦
 ---
 
 # pockyqiqi
+
+<figure><img src="https://webstatic-zijgame-1258074638.cos.ap-shanghai.myqcloud.com/img/wiki/player_img_pockyqiqi.png" alt=""><figcaption></figcaption></figure>
 
 ### 简介
 
